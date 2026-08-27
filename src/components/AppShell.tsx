@@ -1,0 +1,42 @@
+import { Suspense } from 'react'
+import { Navigate, Route, Routes, useLocation } from 'react-router-dom'
+import { lazyPages } from '../route-modules'
+import { RouteTransition } from './RouteTransition'
+import { ScrollTargetButton } from './ScrollTargetButton'
+import { SiteFooter } from './SiteFooter'
+import { SiteHeader } from './SiteHeader'
+
+const { home: HomePage, hmi: HmiPage, plc: PlcPage, motion: MotionPage, vision: VisionPage } = lazyPages
+
+function LoadingRoute() {
+  return (
+    <main className="route-loading" id="main-content">
+      <p role="status">正在加载本地页面模块…</p>
+    </main>
+  )
+}
+
+export function AppShell() {
+  const location = useLocation()
+
+  return (
+    <div className="app-shell">
+      <ScrollTargetButton className="skip-link" targetId="main-content">
+        跳到主要内容
+      </ScrollTargetButton>
+      <SiteHeader />
+      <RouteTransition routeKey={location.pathname} />
+      <Suspense fallback={<LoadingRoute />}>
+        <Routes location={location}>
+          <Route path="/" element={<HomePage />} />
+          <Route path="/hmi" element={<HmiPage />} />
+          <Route path="/plc" element={<PlcPage />} />
+          <Route path="/motion" element={<MotionPage />} />
+          <Route path="/vision" element={<VisionPage />} />
+          <Route path="*" element={<Navigate to="/" replace />} />
+        </Routes>
+      </Suspense>
+      <SiteFooter />
+    </div>
+  )
+}

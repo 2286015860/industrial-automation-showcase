@@ -1,0 +1,212 @@
+{
+  "schemaVersion": 1,
+  "capturedAt": "2026-08-27",
+  "root": "C:\\Users\\hu152\\Desktop\\HTML",
+  "algorithm": "SHA-256",
+  "protectedScope": [
+    "index.html",
+    "styles.css",
+    "script.js",
+    "pages/**",
+    "assets/**"
+  ],
+  "fileCount": 39,
+  "files": [
+    {
+      "Path": "assets/README.md",
+      "Bytes": 1991,
+      "SHA256": "695790e792346034f67b72d7542cd31fab43b91c5a35b5e0d1f6b927f7757fa7"
+    },
+    {
+      "Path": "assets/screenshots/CAPTURE_GUIDE.md",
+      "Bytes": 1914,
+      "SHA256": "914381f7c60fa397ca01a838d1c815fb05c6639503ebfb50716a653a6b2c74fe"
+    },
+    {
+      "Path": "assets/screenshots/chamber-residence-time.png",
+      "Bytes": 101255,
+      "SHA256": "9af6cfdddb85ecb596f7b3ccbabef993c6c1d9e9aff8c9a77cca4ef4a3bc60ba"
+    },
+    {
+      "Path": "assets/screenshots/hmi-ads-code.png",
+      "Bytes": 60719,
+      "SHA256": "9fada2b3de75ff2a94b632fb805ebf7f77a20f548aad597f65fb5475ff028e5a"
+    },
+    {
+      "Path": "assets/screenshots/hmi-ads-code.svg",
+      "Bytes": 1302,
+      "SHA256": "6e7be9a5f89a4f0280c2927ce9d2c8ccb42648e65e7c9279a946d3aa2572a337"
+    },
+    {
+      "Path": "assets/screenshots/hmi-alarm-event.png",
+      "Bytes": 124496,
+      "SHA256": "2cfead4d810672ffb662acbc3a558e0b7c93ff2723c75e101af9372e25893ade"
+    },
+    {
+      "Path": "assets/screenshots/hmi-alarm-event.svg",
+      "Bytes": 1812,
+      "SHA256": "b4bdea9620d78c87c6fe79832482431a63087546336e82d94d88b55ea5162404"
+    },
+    {
+      "Path": "assets/screenshots/hmi-auto-process.png",
+      "Bytes": 257184,
+      "SHA256": "c70068540c48a62cf55ce42c35d07488cf63c8b74700df9737f3886d6791a0ac"
+    },
+    {
+      "Path": "assets/screenshots/hmi-auto-process.svg",
+      "Bytes": 1945,
+      "SHA256": "28b725ef120c1fb62442ddb5ab41b6fc89be06acb9af89bb05b354b8f0ba9ebd"
+    },
+    {
+      "Path": "assets/screenshots/hmi-dashboard.png",
+      "Bytes": 230260,
+      "SHA256": "46f1163d347665f6e59c3d379eb652a1df1829b925694b6e822da37272cb1127"
+    },
+    {
+      "Path": "assets/screenshots/hmi-dashboard.svg",
+      "Bytes": 2763,
+      "SHA256": "115789ad01ba61f8a7917ce4a03c1efe958cf5def23d175419e09ce2df598de5"
+    },
+    {
+      "Path": "assets/screenshots/hmi-device-map.png",
+      "Bytes": 169796,
+      "SHA256": "39a6b85dfcb30417b96abd5c2801de7ae92dd85118e43f73927ac7fabef91114"
+    },
+    {
+      "Path": "assets/screenshots/hmi-device-map.svg",
+      "Bytes": 2466,
+      "SHA256": "4fa43148ea3ed27d5cc990229bcf1ca93f388485e750af7b4242a966f823160d"
+    },
+    {
+      "Path": "assets/screenshots/hmi-flow.svg",
+      "Bytes": 1754,
+      "SHA256": "310bc7b0f159232d707c325b1797b0548406b942a44c6734d68e21543c5ca159"
+    },
+    {
+      "Path": "assets/screenshots/hmi-plating-chamber.svg",
+      "Bytes": 1741,
+      "SHA256": "df6432bef848d09d452d707c7e1a663c3c473f94e2005f9e270e219037807d45"
+    },
+    {
+      "Path": "assets/screenshots/hmi-recipe.png",
+      "Bytes": 118032,
+      "SHA256": "e56c648310f7e75bca068edaeabcc91eb98913e8ab050c03a429b89bcdafa7bc"
+    },
+    {
+      "Path": "assets/screenshots/hmi-recipe.svg",
+      "Bytes": 1517,
+      "SHA256": "e161fffbc1dc22a8e2b6096fb1df4ecc95edd2501c30c834126334f65daf84ed"
+    },
+    {
+      "Path": "assets/screenshots/hmi-settings-page.svg",
+      "Bytes": 1962,
+      "SHA256": "1440ee893556fe71e439f18490e03f0551ae678ff8c4c02e2b303a28cad95f55"
+    },
+    {
+      "Path": "assets/screenshots/hmi-settings.png",
+      "Bytes": 114416,
+      "SHA256": "fec437b664b3d2004ec214d767ca9bc147f21a1de0ec5216e4e22110263315b3"
+    },
+    {
+      "Path": "assets/screenshots/hmi-settings.svg",
+      "Bytes": 1730,
+      "SHA256": "c63b27041b32dd30cb7856413e8e36e92681b6863d7ee7bfeda679c072f7118b"
+    },
+    {
+      "Path": "assets/screenshots/hmi-workbench.svg",
+      "Bytes": 3056,
+      "SHA256": "7f245de89ad3f698ecc79513a4100b430dce331891cc66120efc682f404a7a5d"
+    },
+    {
+      "Path": "assets/screenshots/motion-code-runtime.svg",
+      "Bytes": 5399,
+      "SHA256": "97622c30303cf8a0bf88eb49554bdd212ff62fc45245891a3ff225886bc67940"
+    },
+    {
+      "Path": "assets/screenshots/portfolio-atlas-preview.png",
+      "Bytes": 310206,
+      "SHA256": "9d96914c5f075fae082c88a560329b52a37dadd1f03f5fc8b68268aa61ee7e53"
+    },
+    {
+      "Path": "assets/screenshots/portfolio-capture-board-preview.png",
+      "Bytes": 461609,
+      "SHA256": "6baaedb168c8f28d6861a8b22d9c274418cb778c42ba0e18af0496d5f85902e3"
+    },
+    {
+      "Path": "assets/screenshots/portfolio-desktop-final.png",
+      "Bytes": 664438,
+      "SHA256": "4eefd41c4fbc087e92cb7b567665333c51e7f0d4c54a28284db64195b821e5b9"
+    },
+    {
+      "Path": "assets/screenshots/portfolio-home-apple-preview.png",
+      "Bytes": 175838,
+      "SHA256": "d15dbf86a04144aeee2ab62a36896c523f2045793794699bfb6d56f9b9678aae"
+    },
+    {
+      "Path": "assets/screenshots/portfolio-long-preview.png",
+      "Bytes": 9075078,
+      "SHA256": "47d4ac293314b75784646964deea5645f630b69c726ac9a9c4be7db309b33b26"
+    },
+    {
+      "Path": "assets/screenshots/portfolio-plc-preview.png",
+      "Bytes": 508802,
+      "SHA256": "61caa19b7b1cb193515fc41409118116869b5c568eee7c7ca0bf1d2a24bb829e"
+    },
+    {
+      "Path": "assets/screenshots/portfolio-vision-section-preview.png",
+      "Bytes": 1159405,
+      "SHA256": "f4a9e69ff9529b0eac04bc8d6602aa80290407aab27ad6754927d1b486c59e75"
+    },
+    {
+      "Path": "assets/screenshots/SHOT_LIST.md",
+      "Bytes": 1035,
+      "SHA256": "cae667f861bee6daaeaa132a12d1e05f07ddceb2fd75b49f127255ebe20baf4f"
+    },
+    {
+      "Path": "assets/screenshots/vision-workbench.png",
+      "Bytes": 126770,
+      "SHA256": "b76b21ecd67d9b94fb28030e0f7888cf0c1720ec37e090807df5d36fc6f05a19"
+    },
+    {
+      "Path": "assets/screenshots/vision-workbench.svg",
+      "Bytes": 1885,
+      "SHA256": "fb69720e9b31cea5d9c635d9e6b9ddaf2a82728b334d22d78c37a6b1bcc34508"
+    },
+    {
+      "Path": "index.html",
+      "Bytes": 10046,
+      "SHA256": "8de14a6bd05e7d1f8bb109a245ff648f25921b08ed5169af378514bf066c5f85"
+    },
+    {
+      "Path": "pages/hmi.html",
+      "Bytes": 19151,
+      "SHA256": "8f4d4c80aa3222b73d14e950b71ab96011385cb219ac5f7370a78ba185a5b1bf"
+    },
+    {
+      "Path": "pages/motion.html",
+      "Bytes": 11108,
+      "SHA256": "799a2b6ecc735b83ca8e60644963e7a59db7d2c0312686ddeefb1d6af3ee5fa1"
+    },
+    {
+      "Path": "pages/plc.html",
+      "Bytes": 28146,
+      "SHA256": "8c7e664e33ad84cba867d3141c7798122e91bc95732518fd47bddbdc0d60c08a"
+    },
+    {
+      "Path": "pages/vision.html",
+      "Bytes": 12109,
+      "SHA256": "e9b06b3bece7708b4c80d8b5fda9e2fbcda7dcad5b426edd9e51116808a8568f"
+    },
+    {
+      "Path": "script.js",
+      "Bytes": 4515,
+      "SHA256": "b282e6401f31889e6c49e1ac80bdd47fa49a858df38ab25c3d9f026ac96868df"
+    },
+    {
+      "Path": "styles.css",
+      "Bytes": 59849,
+      "SHA256": "e3ecee171a55e6d8896f4b53d42e64c071ffe9ade06e3e0082dbb46f5cc96ac0"
+    }
+  ]
+}
+

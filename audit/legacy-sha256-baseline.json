@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "capturedAt": "2026-08-27",
-  "root": "C:\\Users\\hu152\\Desktop\\HTML",
+  "root": "legacy-static-site-root",
   "algorithm": "SHA-256",
   "protectedScope": [
     "index.html",
@@ -209,4 +209,3 @@
     }
   ]
 }
-

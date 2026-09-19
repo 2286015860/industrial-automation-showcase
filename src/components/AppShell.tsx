@@ -11,7 +11,7 @@ const { home: HomePage, hmi: HmiPage, plc: PlcPage, motion: MotionPage, vision: 
 function LoadingRoute() {
   return (
     <main className="route-loading" id="main-content">
-      <p role="status">正在加载本地页面模块…</p>
+      <p role="status">正在加载页面模块…</p>
     </main>
   )
 }

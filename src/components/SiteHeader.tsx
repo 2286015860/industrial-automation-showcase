@@ -32,11 +32,10 @@ export function SiteHeader() {
         ))}
       </nav>
 
-      <div className="local-status" aria-label="运行状态：本地静态站">
+      <div className="local-status" aria-label="运行状态：静态无后端站点">
         <span aria-hidden="true" />
-        LOCAL / STATIC
+        STATIC / NO BACKEND
       </div>
     </header>
   )
 }
-

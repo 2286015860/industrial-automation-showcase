@@ -13,7 +13,7 @@ export function MediaFrame({ media, eager = false }: MediaFrameProps) {
         <span />
         <span />
         <span />
-        <b>LOCAL / EVIDENCE VIEW</b>
+        <b>STATIC / EVIDENCE VIEW</b>
       </div>
       <div className="media-frame__viewport">
         <img
